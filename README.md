@@ -1,0 +1,2 @@
+# Simple-Ecommerce-Site
+HTML / CSS / JAVASCRIPT: YOU CAN USE THIS IF YOU WANT
